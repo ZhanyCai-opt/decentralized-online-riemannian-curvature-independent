@@ -1,4 +1,4 @@
-# Decentralized Online Riemannian Optimization on Hadamard Manifolds
+# Curvature-Independent Regret Bounds for Distributed Online Optimization on Hadamard Manifolds
 
 Code and data for the numerical experiments on curvature-independent regret bounds
 under horospherical convexity. **D-ROGD** (decentralized Riemannian online gradient
