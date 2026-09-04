@@ -1,0 +1,9 @@
+# Versions used for the reported runs (Kaggle Python image, GPU session).
+# geoopt is the critical pin: the boundary margin of its `projx` determines
+# which curvature levels are numerically feasible (see README).
+geoopt==0.5.1
+matplotlib==3.10.0
+nltk==3.9.1
+numpy==2.0.2
+scikit-learn==1.6.1
+torch==2.10.0+cpu
