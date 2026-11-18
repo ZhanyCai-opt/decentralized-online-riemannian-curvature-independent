@@ -1,0 +1,9 @@
+median drogd         Reg(T)/sqrt(T) = 0.122   ratio to D-ROGD = 1.00
+median dprgd_c7      Reg(T)/sqrt(T) = 0.248   ratio to D-ROGD = 2.14
+median idprgd_c12    Reg(T)/sqrt(T) = 2.169   ratio to D-ROGD = 18.79
+median idprgd_tuned  Reg(T)/sqrt(T) = 0.122   ratio to D-ROGD = 1.00
+mean   drogd         Reg(T)/(1+log T) = 0.378   ratio to D-ROGD = 1.00
+mean   cai12         Reg(T)/(1+log T) = 4.580   ratio to D-ROGD = 11.90
+mean   cai12_tuned   Reg(T)/(1+log T) = 0.378   ratio to D-ROGD = 1.00
+median distance to fault-free estimate at T: 0.336 (batch comparator 0.327)
+mean   distance to fault-free estimate at T: 0.623 (batch comparator 0.624)

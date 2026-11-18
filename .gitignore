@@ -1,0 +1,11 @@
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# operating systems
+.DS_Store
+Thumbs.db
+
+# archives written by the Kaggle versions of the notebooks
+*_outputs.zip

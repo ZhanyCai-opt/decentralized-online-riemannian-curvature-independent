@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+type: software
+title: "Code for: Curvature-Independent Regret Bounds for Distributed Online Optimization on Hadamard Manifolds"
+version: "2.0"
+license: MIT
+repository-code: "https://github.com/ZhanyCai-opt/decentralized-online-riemannian-curvature-independent"
+authors:
+  - family-names: Cai
+    given-names: Zhanyuan
+    affiliation: Northeastern University
+  - family-names: Sahinoglu
+    given-names: Emre
+    affiliation: Northeastern University
+  - family-names: Shahrampour
+    given-names: Shahin
+    affiliation: Northeastern University
+preferred-citation:
+  type: article
+  title: "Curvature-Independent Regret Bounds for Distributed Online Optimization on Hadamard Manifolds"
+  authors:
+    - family-names: Cai
+      given-names: Zhanyuan
+    - family-names: Sahinoglu
+      given-names: Emre
+    - family-names: Shahrampour
+      given-names: Shahin
+  journal: "IEEE Control Systems Letters"
+  status: submitted
+  year: 2026
+  url: "https://arxiv.org/abs/2609.13646"
